@@ -1,0 +1,110 @@
+\hypersetup{linkcolor=black}					% 超链接颜色
+
+\lstset{                        %Settings for listings package.
+	language=C++,
+	basicstyle=\ttfamily, %\footnotesize,
+	captionpos=b,
+	escapeinside=``,
+	extendedchars=false,
+	% frame=single,%shadowbox
+	backgroundcolor=\color{lightgray!15},
+	rulesepcolor=\color{red!20!green!20!blue!20},
+	stringstyle=\color{purple},
+	keywordstyle=\color{blue}, %\bfseries,
+	commentstyle=\color{violet},
+	directivestyle=\color{blue},
+	%morekeywords={*,define,*,include...},
+	breakatwhitespace=false,
+	breaklines=true,
+	showspaces=false,
+	showstringspaces=false,
+	showtabs=false,
+	columns=[c]flexible,
+	%fontadjust=false,
+	upquote=false,						% 使引号按照代码格式来显示
+	lineskip=-0.8pt,
+	framerule=0pt,
+	numbersep=5pt,
+	%basewidth=1em,
+	stepnumber=2,
+	tabsize=4
+	%title=\lstname
+}
+
+%\titlecontents{chapter}[3.8em]{\hspace{-3.8em}\CJKfamily{hei}}
+%{}{}{\titlerule*[4pt]{.}\contentspage}
+%{\CJKprechaptername~\thecontentslabel~\CJKchaptername~~}{}%{\titlerule*[4pt]{.}\contentspage}
+
+%\titlespacing*{\chapter}{0cm}{-100cm}{0cm}[0cm]
+
+
+% 调整页面布局
+%\topmargin 		-1.5	 	true cm
+%\headsep 		0.4 	true cm
+%\addtolength{\textwidth}{\oddsidemargin}
+\addtolength{\textwidth}{100pt}
+\oddsidemargin 	0 		true cm
+\evensidemargin	0 		true cm
+%\textheight		21.5 	true cm
+%\textwidth 		15 	true cm
+%\hoffset 		-1 	true cm
+%\voffset 		-3 		true cm
+%\footskip 		0.6 	true cm
+
+%\paperwidth 	10.5 	true cm
+%\paperheight 	14.8 	true cm
+
+%\linespread{1.1}
+
+% 浮动图形间距
+% 图片与标题之间的间距
+%\setlength{\abovecaptionskip}{0pt}
+% 图片被安排在页面顶部时, 和正文的距离
+%\setlength{\textfloatsep}{30pt plus 5pt minus 5pt}
+%\setlength{\textfloatsep}{10pt plus 5pt minus 5pt}
+
+%\setlength{\intextsep}{33pt plus 20pt minus 7pt}
+%\setlength{\belowcaptionskip}{-18pt}
+
+
+% 控制列表的间距
+% 自定义: \begin{itemize}\setlength{\itemsep}{-\itemsep}
+\makeatletter
+	\def\enumerate{%
+		\ifnum \@enumdepth >\thr@@\@toodeep\else
+			\advance\@enumdepth\@ne
+			\edef\@enumctr{enum\romannumeral\the\@enumdepth}%
+		\expandafter
+		\list
+			\csname label\@enumctr\endcsname
+			{\usecounter\@enumctr\def\makelabel##1{\hss\llap{##1}}%
+				%\addtolength{\leftmargin}{5pt}
+				\addtolength{\parsep}{10pt}
+				%\addtolength{\rightmargin}{20pt} %%%%
+				\addtolength{\listparindent}{10pt} %%%%
+				\addtolength{\itemsep}{-15pt} %%%%
+				\addtolength{\topsep}{-5pt}} %%%%
+	\fi}
+
+	\def\itemize{%
+		\ifnum \@itemdepth >\thr@@\@toodeep\else
+			\advance\@itemdepth\@ne
+			\edef\@itemitem{labelitem\romannumeral\the\@itemdepth}%
+		\expandafter
+		\list
+			\csname\@itemitem\endcsname
+			{\def\makelabel##1{\hss\llap{##1}}%
+				%\addtolength{\leftmargin}{5pt}
+				\addtolength{\parsep}{10pt}
+				%\addtolength{\rightmargin}{20pt} %%%%
+				\addtolength{\listparindent}{10pt} %%%%
+				\addtolength{\itemsep}{-12pt} %%%%
+				\addtolength{\topsep}{-37pt}} %%%%
+	\fi}
+\makeatother
+
+
+\newcommand{\hpp}[1]{$<$#1$>$}
+\newcommand{\jkh}[1]{$<$#1$>$}
+\newcommand{\mod}{~\mathrm{mod}~}
+\newcommand{\lcm}{\mathrm{lcm}}

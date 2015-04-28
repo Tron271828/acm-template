@@ -1,0 +1,43 @@
+% =================================================
+%
+%                 ACM/ICPC 代码模板
+%
+% =================================================
+
+% 如果需要分栏就加twocolumn
+\documentclass[11pt,a4paper,twoside,final]{book}
+
+\input{setup/packages.tex}
+\input{setup/format.tex}
+
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
+%\graphicspath{{figures/}}
+
+\begin{document}
+
+% 封面
+\input{cover.tex}
+
+\frontmatter
+\tableofcontents
+
+% 以下是正文
+\mainmatter
+
+\input{ch1/ch1.tex}				% 基本算法
+\input{ch2/ch2.tex}				% 搜索
+\input{ch3/ch3.tex}				% 数据结构
+\input{ch4/ch4.tex}				% 动态规划
+\input{ch5/ch5.tex}				% 图论
+\input{ch6/ch6.tex}				% 数学
+\input{ch7/ch7.tex}				% 计算几何
+\input{ch8/ch8.tex}				% ACM 与 Java
+\input{ch9/ch9.tex}				% STL
+\input{ch10/ch10.tex}			% 附录
+
+\backmatter
+\input{backmatter.tex}
+
+\end{document}
