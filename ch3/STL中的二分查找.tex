@@ -1,1 +1,16 @@
 \subsection{STL 中的二分查找}
+	STL 中有二分查找的算法，位于头文件 \header{algorithm} 中。
+
+	\begin{itemize}
+		\item binary\_{}serach(begin, end, value[, comp])
+			
+			判断已序区间 [begin, end) 内是否包含和 value 相等的元素。如果省略 comp 则使用“<”运算符进行比较。注意，返回值\emph{只说明是否存在}，不指明位置。
+		
+		\item lower\_{}bound(begin, end, value[, comp])
+		
+			返回第一个大于等于 value 的元素位置，即可以插入 value 且不破坏区间有序性的第一个位置。省略 comp 则使用“<”比较。
+			
+		\item upper\_{}bound(begin, end, value[, comp])
+		
+			返回第一个大于 value 的元素位置，即可以插入 value 且不破坏区间有序性的最后一个位置。省略 comp 则使用“<”比较。
+	\end{itemize}

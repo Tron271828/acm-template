@@ -1,1 +1,58 @@
 \subsection{C++ 中的字符串类}
+\subsubsection{string}
+	有些字符串操作本来很简单，但是在 C 语言里就很麻烦。C++ 通过 string 类，在一定程度上缓解了这个问题。string 的头文件为 \header{string}。
+
+	\emph{注意，string 类虽然方便，但是速度很慢！}
+	
+	\paragraph{输入/输出}
+		cin、cout 可以直接输入、输出 string 字符串。如果需要整行读入，可以用 getline 函数：
+
+		\begin{lstlisting}
+string st;
+cin>>st;
+
+while (getline(cin, st))
+{
+	cout<<st;
+}
+		\end{lstlisting}
+		
+	\paragraph{基本操作}
+		string 类相当于 vector<char>，所以 string 可以使用 vector 所支持的大部分操作，例如：
+
+		\begin{lstlisting}
+string st="abcde";
+cout << st[1];
+st.push_back('f');
+		\end{lstlisting}
+		
+		\begin{itemize}
+			\item 可以用``+''连接两个字符串。当然，两个字符串中需要至少一个是 string 类型，否则会编译错误。\emph{由于涉及内存分配，不建议使用。}
+			\item 用 ==、!= 判断两个字符串是否相等。用比较符号比较两个字符串的大小。
+			\item 用 += 运算符或 st.append() 在 st 后面附加字符串。
+			\item 用 st.size() 获得字符串 st 的长度。
+			\item 用 st.find() 在字符串里寻找子串。如果没找到，函数会返回 string::npos。
+			\begin{lstlisting}
+size_t p = st.find("hello", 0);  // 第二个参数表示起始位置。
+			\end{lstlisting}
+			\item 用 st.substr(5, 10) 来截取从第 5 个字符开始、长度为 10 的字符串。如果长度为 string::npos，则一直截取到字符串结束。
+			\item 用 st.c\_{}str() 获取一个字符串数组，这样就可以继续用 C 语言的处理方式来处理字符串了。
+		\end{itemize}
+
+\subsubsection{stringstream}
+	stringstream 可用于从字符串中读取内容。头文件 <sstream>。
+	
+	\emph{注意，stringstream 的速度非常慢。}
+	
+	以下是“输入若干行整数，求它们的和”的代码：
+	
+	\begin{lstlisting}
+string st;
+while (getline(cin, st))
+{
+	stringstream ss(st);
+	int sum=0, p;
+	while (ss>>p) sum+=p;
+	cout<<p<<endl;
+}
+	\end{lstlisting}

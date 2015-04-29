@@ -1,0 +1,48 @@
+\subsubsection{KMP 算法}
+\paragraph{KMP 算法的原理}
+	假设原串 S 为 abababacabcababacbc，模式串 P 为 ababacb。
+
+	按照朴素算法的做法，发现不匹配之后，应该把模式串向右移动一位。而 KMP 算法会根据\emph{预处理的结果}来决定应该把模式串向右移动多少位。
+	
+	朴素算法的尝试：
+	
+	\begin{lstlisting}
+S:  abababacababababacbc
+P:  ababacb
+P1:  ababacb
+P2:   ababacb
+P3:    ababacb
+......
+Pn:             ababacb
+	\end{lstlisting}
+	
+	KMP 算法的尝试：
+	
+	\begin{lstlisting}
+S:  abababacababababacbc
+P1: ababacb                // P[5] 时失败，向右移动 2 位，下次从 P[3] 开始
+P2:   ababacb              // P[6] 时失败，向右移动 6 位，下次从 P[0] 开始
+P3:         ababacb        // P[5] 时失败，向右移动 2 位，下次从 P[3] 开始
+P4:           ababacb      // P[5] 时失败，向右移动 2 位，下次从 P[3] 开始
+P5:             ababacb    // 成功	
+	\end{lstlisting}
+	
+	现在看一下 KMP 是怎样知道模式串向右移动的位数的。为了看得清楚，我们进行一下处理：
+	
+	\begin{lstlisting}
+S:  ababa bac ababa ba bacbc
+P1: ababa|cb  
+P2:   aba|bac|b
+P3:          |ababa|cb
+P4:             aba|ba|cb
+P5:               a ba|bacb
+	\end{lstlisting}
+	
+	我们在使匹配失败的字母的前面加上了竖线。设 P[0:x] 为“到目前为止，成功匹配部分的长度为 x”。可以看到，在每组竖线的前面，移动后的 P[0:j] (在继续匹配之前，P 只剩 $j$ 个字母) 和移动前的 P[0:i] 的每一个字母仍然是\emph{对应的}。也就是说，\emph{P[0:j] 实际上是 P[0:i] 的前缀}。这样，我们就可以减少很多无效的右移。
+	
+	所以，我们要做的就是开一个 next 数组。对于 next[j]=k，我们认为\emph{P[0:k] 是 P[0:j] 的最长的前缀}。把 next 数组算好之后，就可以正式开始和原串的匹配了。
+	
+\paragraph{实现}
+	以下是 KMP 算法的代码：
+	
+	\lstinputlisting{ch3/codes/kmp.cpp}

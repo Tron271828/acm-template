@@ -1,3 +1,9 @@
 \subsection{串匹配}
-    \subsubsection{KMP 算法}
-    \subsubsection{Karp-Rabin 算法}
+	【问题】已知原串和模式串，求模式串在原串中的个数和位置。
+	
+	对于此类问题，很容易想到朴素算法，或者是 strstr() 与 string 的 find()。不过，在字符串\emph{很长}的情况下，朴素算法会浪费时间。\emph{C 和 C++ 标准也没有对 strstr 和 find 的实现方式做出规定}，而且我们碰到的问题也并不总是单纯的字符串，所以我们需要了解更高效的算法。
+	
+	常用的串匹配算法有 KMP 算法、BM 算法、KR 算法等。
+
+	\input{ch3/KMP算法.tex}
+	\input{ch3/Karp-Rabin算法.tex}

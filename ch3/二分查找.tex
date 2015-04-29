@@ -1,4 +1,19 @@
 \section{二分查找}
-    \input{ch3/实现.tex}
+	想必大家都知道二分查找是什么东西了，也知道时间复杂度为 $O(\log n)$ 了。
+	
+	二分查找要求数据\emph{单调有序}。
+
+    \subsection{实现}
+	    \lstinputlisting{ch3/codes/二分.cpp}
+	    
+	\subsection{二分查找求上下界}
+		【求下界】寻找 $a$ 的区间 $[x,y)$ 中\emph{大于等于} $v$ 的第一个数，使得 $v$ 插入到 $a$ 的\emph{对应位置}以后，$a$ 还是一个有序的数组。
+		
+		【求上界】二分查找求下界的描述：寻找 $a$ 的区间 $[x,y)$ 中\emph{大于} $v$ 的第一个数，使得 $v$ 插入到 $a$ 对应位置的\emph{前面一位}之后，$a$ 还是一个有序的数组。
+		
+		实现代码如下：
+		
+		\lstinputlisting{ch3/codes/二分求上下界.cpp}
+    
     \input{ch3/STL中的二分查找.tex}
     \input{ch3/二分答案.tex}

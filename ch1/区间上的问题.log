@@ -1,0 +1,1102 @@
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.11.29)  29 APR 2015 15:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**区间上的问题.tex
+(./区间上的问题.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+! Undefined control sequence.
+l.1 \subsection
+               {区间上的问题}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \subsection{区
+                   间上的问题}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+! Undefined control sequence.
+l.3 \subsubsection
+                  {选择不相交区间}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsubsection{选
+                      择不相交区间}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 交 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 【 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no 】 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 轴 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 开 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 尽 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no 多 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 使 in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 些 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 两 in font nullfont!
+Missing character: There is no 两 in font nullfont!
+Missing character: There is no 没 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 公 in font nullfont!
+Missing character: There is no 共 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--5
+[]
+ []
+
+
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 3--5
+\OML/cmm/m/it/10 n$
+ []
+
+
+Overfull \hbox (28.45833pt too wide) in paragraph at lines 3--5
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a[]; b[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ^^I【
+          思路】贪心策略如下：
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 【 in font nullfont!
+Missing character: There is no 思 in font nullfont!
+Missing character: There is no 路 in font nullfont!
+Missing character: There is no 】 in font nullfont!
+Missing character: There is no 贪 in font nullfont!
+Missing character: There is no 心 in font nullfont!
+Missing character: There is no 策 in font nullfont!
+Missing character: There is no 略 in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 下 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ^^I\begin{enumerate}
+                        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--8
+[] 
+ []
+
+Missing character: There is no 按 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 顺 in font nullfont!
+Missing character: There is no 序 in font nullfont!
+Missing character: There is no 排 in font nullfont!
+Missing character: There is no 序 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (7.62094pt too wide) in paragraph at lines 9--10
+\OML/cmm/m/it/10 b[]$ 
+ []
+
+Missing character: There is no 务 in font nullfont!
+Missing character: There is no 必 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 第 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 原 in font nullfont!
+Missing character: There is no 因 in font nullfont!
+Missing character: There is no 见 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+! Undefined control sequence.
+<write> ...`fig:ch1_tx_qjsdwt_1' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.10 ...�（原因见图 \ref{fig:ch1_tx_qjsdwt_1}
+                                                  ）
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:ch1_tx_qjsdwt_1' on page  undefined on input line
+ 10.
+
+Missing character: There is no ） in font nullfont!
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 10--11
+[] 
+ []
+
+Missing character: There is no 继 in font nullfont!
+Missing character: There is no 续 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 前 in font nullfont!
+Missing character: There is no 向 in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no 遍 in font nullfont!
+Missing character: There is no 历 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 每 in font nullfont!
+Missing character: There is no 当 in font nullfont!
+Missing character: There is no 遇 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 与 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 没 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 公 in font nullfont!
+Missing character: There is no 共 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no ） in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ^^I\begin{figure}
+                      [htb]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.16 ^^I^^I\includegraphics
+                           {ch1/figures/选择不相交区间.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 交 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ^^I^^I\caption
+                   {选择不相交区间：如图所示，不论区间 1、...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 交 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no ： in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 示 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 论 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 置 in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 何 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 都 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 留 in font nullfont!
+Missing character: There is no 下 in font nullfont!
+Missing character: There is no 更 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 剩 in font nullfont!
+Missing character: There is no 余 in font nullfont!
+Missing character: There is no 空 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ^^I\end{figure}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 14--20
+[]
+ []
+
+! Undefined control sequence.
+l.21 \subsubsection
+                   {区间选点问题}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no 【 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no 】 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 轴 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 闭 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 取 in font nullfont!
+Missing character: There is no 尽 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no 少 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 使 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 每 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 内 in font nullfont!
+Missing character: There is no 都 in font nullfont!
+Missing character: There is no 至 in font nullfont!
+Missing character: There is no 少 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 同 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 内 in font nullfont!
+Missing character: There is no 含 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 同 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no ） in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--23
+[]
+ []
+
+
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 21--23
+\OML/cmm/m/it/10 n$
+ []
+
+
+Overfull \hbox (26.2361pt too wide) in paragraph at lines 21--23
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a[]; b[]\OT1/cmr/m/n/10 ]$ 
+ []
+
+Missing character: There is no 【 in font nullfont!
+Missing character: There is no 思 in font nullfont!
+Missing character: There is no 路 in font nullfont!
+Missing character: There is no 】 in font nullfont!
+Missing character: There is no 贪 in font nullfont!
+Missing character: There is no 心 in font nullfont!
+Missing character: There is no 策 in font nullfont!
+Missing character: There is no 略 in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 下 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 24--25
+[] 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--26
+[] 
+ []
+
+Missing character: There is no 把 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 按 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 排 in font nullfont!
+Missing character: There is no 序 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 同 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 排 in font nullfont!
+Missing character: There is no 序 in font nullfont!
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.27 ...��的点，这样大区间不必考虑。}
+                                                  ）。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.27 ...��的点，这样大区间不必考虑。}
+                                                  ）。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 考 in font cmr10!
+Missing character: There is no 虑 in font cmr10!
+Missing character: There is no 区 in font cmr10!
+Missing character: There is no 间 in font cmr10!
+Missing character: There is no 包 in font cmr10!
+Missing character: There is no 含 in font cmr10!
+Missing character: There is no 的 in font cmr10!
+Missing character: There is no 情 in font cmr10!
+Missing character: There is no 况 in font cmr10!
+Missing character: There is no ： in font cmr10!
+Missing character: There is no 小 in font cmr10!
+Missing character: There is no 区 in font cmr10!
+Missing character: There is no 间 in font cmr10!
+Missing character: There is no 被 in font cmr10!
+Missing character: There is no 满 in font cmr10!
+Missing character: There is no 足 in font cmr10!
+Missing character: There is no 时 in font cmr10!
+Missing character: There is no 大 in font cmr10!
+Missing character: There is no 区 in font cmr10!
+Missing character: There is no 间 in font cmr10!
+Missing character: There is no 一 in font cmr10!
+Missing character: There is no 定 in font cmr10!
+Missing character: There is no 被 in font cmr10!
+Missing character: There is no 满 in font cmr10!
+Missing character: There is no 足 in font cmr10!
+Missing character: There is no 。 in font cmr10!
+Missing character: There is no 所 in font cmr10!
+Missing character: There is no 以 in font cmr10!
+Missing character: There is no 我 in font cmr10!
+Missing character: There is no 们 in font cmr10!
+Missing character: There is no 应 in font cmr10!
+Missing character: There is no 当 in font cmr10!
+Missing character: There is no 优 in font cmr10!
+Missing character: There is no 先 in font cmr10!
+Missing character: There is no 选 in font cmr10!
+Missing character: There is no 取 in font cmr10!
+Missing character: There is no 小 in font cmr10!
+Missing character: There is no 区 in font cmr10!
+Missing character: There is no 间 in font cmr10!
+Missing character: There is no 中 in font cmr10!
+Missing character: There is no 的 in font cmr10!
+Missing character: There is no 点 in font cmr10!
+Missing character: There is no ， in font cmr10!
+Missing character: There is no 这 in font cmr10!
+Missing character: There is no 样 in font cmr10!
+Missing character: There is no 大 in font cmr10!
+Missing character: There is no 区 in font cmr10!
+Missing character: There is no 间 in font cmr10!
+Missing character: There is no 不 in font cmr10!
+Missing character: There is no 必 in font cmr10!
+Missing character: There is no 考 in font cmr10!
+Missing character: There is no 虑 in font cmr10!
+Missing character: There is no 。 in font cmr10!
+Missing character: There is no ） in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (7.62094pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 b[]$
+ []
+
+
+Overfull \hbox (7.62094pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 b[]$
+ []
+
+
+Overfull \hbox (5.28589pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 a$
+ []
+
+
+Overfull \hbox (4.48613pt too wide) in paragraph at lines 27--28
+[] 
+ []
+
+Missing character: There is no 然 in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 取 in font nullfont!
+Missing character: There is no 第 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 右 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 原 in font nullfont!
+Missing character: There is no 因 in font nullfont!
+Missing character: There is no 见 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+! Undefined control sequence.
+<write> ...`fig:ch1_tx_qjsdwt_2' on page \thepage 
+                                                  \space undefined\on@line .^^J
+l.28 ...�（原因见图 \ref{fig:ch1_tx_qjsdwt_2}
+                                                  ）
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:ch1_tx_qjsdwt_2' on page  undefined on input line
+ 28.
+
+Missing character: There is no ） in font nullfont!
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 28--29
+[] 
+ []
+
+Missing character: There is no 继 in font nullfont!
+Missing character: There is no 续 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 前 in font nullfont!
+Missing character: There is no 向 in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no 遍 in font nullfont!
+Missing character: There is no 历 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 当 in font nullfont!
+Missing character: There is no 遇 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 覆 in font nullfont!
+Missing character: There is no 盖 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 取 in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 右 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ^^I\begin{figure}
+                      [htb]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.34 ^^I^^I\includegraphics
+                           {ch1/figures/区间选点问题.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ^^I^^I\caption
+                   {区间选点问题：对于第 1 个区间来说，显�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no ： in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 第 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 说 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 显 in font nullfont!
+Missing character: There is no 然 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 右 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 明 in font nullfont!
+Missing character: There is no 智 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 因 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 比 in font nullfont!
+Missing character: There is no 前 in font nullfont!
+Missing character: There is no 面 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 覆 in font nullfont!
+Missing character: There is no 盖 in font nullfont!
+Missing character: There is no 更 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 范 in font nullfont!
+Missing character: There is no 围 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 ^^I\end{figure}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 32--38
+[]
+ []
+
+! Undefined control sequence.
+l.39 \subsubsection
+                   {区间覆盖问题}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 覆 in font nullfont!
+Missing character: There is no 盖 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no 【 in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no 】 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 轴 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 闭 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 尽 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no 少 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 覆 in font nullfont!
+Missing character: There is no 盖 in font nullfont!
+Missing character: There is no 指 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 段 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--41
+[]
+ []
+
+
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 39--41
+\OML/cmm/m/it/10 n$
+ []
+
+
+Overfull \hbox (26.2361pt too wide) in paragraph at lines 39--41
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a[]; b[]\OT1/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (18.2986pt too wide) in paragraph at lines 39--41
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 s; t\OT1/cmr/m/n/10 ]$ 
+ []
+
+Missing character: There is no 【 in font nullfont!
+Missing character: There is no 思 in font nullfont!
+Missing character: There is no 路 in font nullfont!
+Missing character: There is no 】 in font nullfont!
+Missing character: There is no 贪 in font nullfont!
+Missing character: There is no 心 in font nullfont!
+Missing character: There is no 策 in font nullfont!
+Missing character: There is no 略 in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 下 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 42--43
+[] 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 44--44
+[] 
+ []
+
+Missing character: There is no 预 in font nullfont!
+Missing character: There is no 处 in font nullfont!
+Missing character: There is no 理 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 扔 in font nullfont!
+Missing character: There is no 掉 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 覆 in font nullfont!
+Missing character: There is no 盖 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 果 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 边 in font nullfont!
+Missing character: There is no 界 in font nullfont!
+Missing character: There is no 超 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 把 in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 变 in font nullfont!
+Missing character: There is no 成 in font nullfont!
+Missing character: There is no 或 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 免 in font nullfont!
+Missing character: There is no 影 in font nullfont!
+Missing character: There is no 响 in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no 面 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 处 in font nullfont!
+Missing character: There is no 理 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (18.2986pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 s; t\OT1/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (18.2986pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 s; t\OT1/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (4.6875pt too wide) in paragraph at lines 45--46
+\OML/cmm/m/it/10 s$
+ []
+
+
+Overfull \hbox (3.61111pt too wide) in paragraph at lines 45--46
+\OML/cmm/m/it/10 t$ 
+ []
+
+Missing character: There is no 把 in font nullfont!
+Missing character: There is no 各 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 按 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 排 in font nullfont!
+Missing character: There is no 序 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 果 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 起 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 无 in font nullfont!
+Missing character: There is no 解 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 否 in font nullfont!
+Missing character: There is no 则 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 起 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 长 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (5.28589pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 a$
+ []
+
+
+Overfull \hbox (4.6875pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 s$
+ []
+
+
+Overfull \hbox (4.6875pt too wide) in paragraph at lines 46--47
+\OML/cmm/m/it/10 s$ 
+ []
+
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no 此 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 问 in font nullfont!
+Missing character: There is no 题 in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 转 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 成 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no 起 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 继 in font nullfont!
+Missing character: There is no 续 in font nullfont!
+Missing character: There is no 选 in font nullfont!
+Missing character: There is no 择 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 直 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 找 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 覆 in font nullfont!
+Missing character: There is no 盖 in font nullfont!
+Missing character: There is no 当 in font nullfont!
+Missing character: There is no 前 in font nullfont!
+Missing character: There is no 起 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 或 in font nullfont!
+Missing character: There is no 者 in font nullfont!
+Missing character: There is no 已 in font nullfont!
+Missing character: There is no 经 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 达 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 段 in font nullfont!
+Missing character: There is no 末 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (26.46779pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 ai; bi\OT1/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (7.62094pt too wide) in paragraph at lines 47--48
+\OML/cmm/m/it/10 b[]$
+ []
+
+
+Overfull \hbox (21.23204pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 b[]; t\OT1/cmr/m/n/10 ]$
+ []
+
+
+Overfull \hbox (7.62094pt too wide) in paragraph at lines 47--48
+\OML/cmm/m/it/10 b[]$ 
+ []
+
+)
+! Emergency stop.
+<*> 区间上的问题.tex
+                          
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 15 strings out of 493724
+ 164 string characters out of 6145898
+ 55043 words of memory out of 5000000
+ 3442 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 18i,5n,14p,142b,152s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
